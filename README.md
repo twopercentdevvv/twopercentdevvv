@@ -1,4 +1,5 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1523003744810434725)](https://discord.com/users/1523003744810434725)
 
 <!--
 **twopercentdevvv/twopercentdevvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
